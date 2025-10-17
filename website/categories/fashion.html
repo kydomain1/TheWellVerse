@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover minimalist fashion essentials and sustainable style choices">
+    <title>Fashion & Accessories - TheWellVerse</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header id="header">
+        <div class="container header-content">
+            <a href="../index.html" class="logo">TheWellVerse</a>
+            <nav>
+                <ul>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../categories/all.html">Articles</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li><a href="../contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Category Hero -->
+    <section class="hero" style="background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.8)), url('https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=1200&h=800&fit=crop&q=90') no-repeat center center/cover; min-height: 300px; padding: var(--space-12) 0;">
+        <div class="container text-center">
+            <h1 style="color: var(--primary); margin-bottom: var(--space-4);">Fashion & Accessories</h1>
+            <p style="font-size: var(--text-lg); color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Discover minimalist fashion essentials and sustainable style choices that stand the test of time.</p>
+        </div>
+    </section>
+
+    <!-- Articles Grid -->
+    <main style="padding: var(--space-12) 0;">
+        <div class="container">
+            <div style="max-width: 800px; margin: 0 auto;">
+                <!-- Article 1: Minimalist Wardrobe -->
+                <a href="../articles/minimalist-wardrobe.html" class="card">
+                    <div class="card-image-wrapper">
+                        <img src="https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=800&h=600&fit=crop&q=90" alt="Minimalist Wardrobe" class="card-image">
+                    </div>
+                    <div class="card-content">
+                        <span class="category-tag">Fashion & Accessories</span>
+                        <h3>Minimalist Wardrobe Essentials</h3>
+                        <p>Build a timeless wardrobe with carefully selected pieces that prioritize quality over quantity.</p>
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: auto;">
+                            <span class="text-sm text-secondary">Emma Richardson · 8 min read</span>
+                            <span class="text-sm" style="color: var(--primary);">Read More →</span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <h4 style="color: var(--white); margin-bottom: var(--space-4);">TheWellVerse</h4>
+                    <p style="opacity: 0.8; font-size: var(--text-sm);">Exploring every aspect of refined living, from minimalist fashion to financial freedom.</p>
+                </div>
+                <div>
+                    <h5 style="color: var(--white); margin-bottom: var(--space-4);">Quick Links</h5>
+                    <ul style="list-style: none;">
+                        <li style="margin-bottom: var(--space-2);"><a href="../categories/all.html">All Articles</a></li>
+                        <li style="margin-bottom: var(--space-2);"><a href="../about.html">About Us</a></li>
+                        <li style="margin-bottom: var(--space-2);"><a href="../contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 style="color: var(--white); margin-bottom: var(--space-4);">Popular Categories</h5>
+                    <ul style="list-style: none;">
+                        <li style="margin-bottom: var(--space-2);"><a href="../categories/fashion.html">Fashion & Accessories</a></li>
+                        <li style="margin-bottom: var(--space-2);"><a href="../categories/health.html">Health & Beauty</a></li>
+                        <li style="margin-bottom: var(--space-2);"><a href="../categories/travel.html">Travel & Accommodation</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2025 TheWellVerse. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        window.addEventListener('scroll', function() {
+            const header = document.getElementById('header');
+            if (window.scrollY > 10) {
+                header.classList.add('scrolled');
+            } else {
+                header.classList.remove('scrolled');
+            }
+        });
+    </script>
+</body>
+</html>

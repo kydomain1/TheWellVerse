@@ -1,0 +1,103 @@
+====================================
+    TheWellVerse 真实图片获取指南
+====================================
+
+【🎯 需要的图片清单】
+
+1. 文章主图（5张）
+   □ minimalist-wardrobe.jpg - 极简衣橱整理场景
+   □ natural-skincare-routine.jpg - 护肤产品摆放
+   □ indoor-plants-garden.jpg - 室内植物展示
+   □ slow-travel-destinations.jpg - 旅行场景/咖啡馆
+   □ financial-independence.jpg - 理财图表/工作场景
+
+2. 产品图（主要4张）
+   □ organic-cotton-tshirt.jpg - 白色有机棉T恤
+   □ classic-denim.jpg - 深色直筒牛仔裤  
+   □ vitamin-c-serum.jpg - 维C精华瓶
+   □ snake-plant.jpg - 虎皮兰盆栽
+
+【📸 推荐图片来源】
+
+🟢 免费高质量图库：
+• Unsplash.com (最推荐)
+• Pexels.com  
+• Pixabay.com
+• Freepik.com (部分免费)
+
+🟡 付费优质图库：
+• Shutterstock.com
+• Getty Images
+• Adobe Stock
+
+【🔍 精确搜索关键词】
+
+1. minimalist-wardrobe.jpg
+   搜索："minimalist wardrobe closet organized clothes"
+   或："capsule wardrobe essentials hanging"
+
+2. natural-skincare-routine.jpg  
+   搜索："natural skincare products bottles serum"
+   或："skincare routine morning products layout"
+
+3. indoor-plants-garden.jpg
+   搜索："indoor plants collection home decor"
+   或："houseplants snake plant pothos modern"
+
+4. slow-travel-destinations.jpg
+   搜索："digital nomad cafe laptop travel"
+   或："slow travel local culture authentic"
+
+5. financial-independence.jpg
+   搜索："financial planning investment chart growth"
+   或："money management savings calculator"
+
+6. organic-cotton-tshirt.jpg
+   搜索："white organic cotton t-shirt minimalist"
+   或："premium cotton tee shirt product photo"
+
+7. classic-denim.jpg
+   搜索："dark wash straight leg jeans classic"
+   或："premium denim jeans product photography"
+
+8. vitamin-c-serum.jpg
+   搜索："vitamin c serum bottle skincare product"
+   或："anti-aging serum dropper bottle"
+
+9. snake-plant.jpg
+   搜索："snake plant sansevieria ceramic pot"
+   或："indoor plant snake plant home decor"
+
+【📐 图片规格要求】
+
+• 尺寸：至少 800x600 像素
+• 格式：JPG 或 PNG
+• 质量：高分辨率，无水印
+• 比例：文章图 4:3，产品图 1:1 或 4:5
+
+【🛠️ 操作步骤】
+
+1. 访问 Unsplash.com
+2. 使用上述关键词搜索
+3. 选择高质量、无水印图片
+4. 下载到 website/images/ 文件夹
+5. 重命名为对应文件名
+6. 告诉我已完成，我来更新HTML链接
+
+【💡 选图技巧】
+
+✅ 优选标准：
+• 画面简洁，主体突出
+• 色调统一，符合极简风格
+• 光线自然，质感真实
+• 构图专业，无杂乱背景
+
+❌ 避免选择：
+• 带明显品牌标识的图片
+• 色彩过于鲜艳或复杂
+• 画面杂乱或模糊的图片
+• 明显的库存照片风格
+
+====================================
+完成后请告诉我，我将立即更新所有页面链接！
+====================================
