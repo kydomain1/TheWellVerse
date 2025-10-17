@@ -1,0 +1,7 @@
+docs/
+temp/
+.git/
+*.txt
+*.bat
+test-images.html
+

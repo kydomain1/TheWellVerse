@@ -1,84 +1,75 @@
 # TheWellVerse
 
-A modern, minimalist lifestyle website focused on refined living, from minimalist fashion to financial freedom.
+A refined living blog covering fashion, health, home, travel, and finance.
 
-## 🌟 Features
+## 🌐 Live Site
 
-- **Fully English Content** - Professional English content throughout
-- **Responsive Design** - Mobile-friendly and modern UI
-- **Local Images** - Fast loading with offline-capable images
-- **SEO Optimized** - Complete meta tags and semantic HTML
-- **Accessible** - Modern web standards compliance
+Visit the live site: [TheWellVerse](https://your-vercel-url.vercel.app)
 
 ## 📁 Project Structure
 
 ```
 TheWellVerse/
-├── website/                 # Main website files
-│   ├── index.html          # Homepage
-│   ├── about.html          # About page
-│   ├── contact.html        # Contact page
-│   ├── articles/           # Article pages
-│   │   ├── minimalist-wardrobe.html
-│   │   ├── natural-skincare.html
-│   │   ├── indoor-plants.html
-│   │   ├── slow-travel.html
-│   │   └── financial-independence.html
-│   ├── categories/         # Category pages
-│   │   ├── all.html
-│   │   ├── fashion.html
-│   │   ├── health.html
-│   │   ├── home.html
-│   │   ├── travel.html
-│   │   └── finance.html
-│   ├── products/           # Product pages (p1.html - p20.html)
-│   ├── css/
-│   │   └── style.css       # Main stylesheet
-│   ├── images/             # Local images
-│   │   ├── hero-minimalist.jpg
-│   │   ├── skincare.jpg
-│   │   ├── plants.jpg
-│   │   ├── travel.jpg
-│   │   └── finance.jpg
-│   └── js/                 # JavaScript files
-├── docs/                   # Documentation and reports
-└── temp/                   # Temporary files
+├── website/           # Main website files
+│   ├── index.html    # Homepage
+│   ├── about.html    # About page
+│   ├── contact.html  # Contact page
+│   ├── articles/     # Blog articles
+│   ├── categories/   # Category pages
+│   ├── products/     # Product pages
+│   ├── images/       # Image assets
+│   └── css/          # Stylesheets
+├── docs/             # Documentation
+└── vercel.json       # Vercel configuration
 ```
 
-## 🚀 Quick Start
+## 🚀 Features
 
-1. Open `website/index.html` in your web browser
-2. The website is fully functional offline
-3. All images are local and load instantly
+- **5 Main Categories**: Fashion, Health, Home, Travel, Finance
+- **Responsive Design**: Mobile-friendly layout
+- **Clean UI**: Modern minimalist design
+- **Fast Loading**: Optimized images and assets
+- **SEO Friendly**: Proper meta tags and semantic HTML
 
-## 📝 Content Categories
+## 📝 Articles
 
-- **Fashion & Accessories** - Minimalist wardrobe essentials
-- **Health & Beauty** - Natural skincare and wellness
-- **Home & Garden** - Indoor plants and sustainable living
-- **Travel & Accommodation** - Slow travel destinations
-- **Finance & Insurance** - Financial independence guide
+1. **Minimalist Wardrobe Essentials** - Building a timeless collection
+2. **Natural Skincare Routine** - Science-backed ingredients
+3. **Sustainable Indoor Gardens** - Plants that purify and inspire
+4. **Slow Travel Destinations** - Places that reward long stays
+5. **Financial Independence Guide** - Practical roadmap for your 30s
 
-## 🛠️ Technical Details
+## 🛠️ Local Development
 
-- **Language**: English (en)
-- **Images**: Local SVG-based placeholders
-- **CSS**: Modern CSS with custom properties
-- **Responsive**: Mobile-first design
-- **Performance**: Optimized for fast loading
+1. Clone the repository:
+```bash
+git clone https://github.com/kydomain1/TheWellVerse.git
+cd TheWellVerse
+```
 
-## 📄 Documentation
+2. Open in browser:
+```bash
+# Windows
+cd website
+start index.html
 
-All project documentation and reports are stored in the `docs/` folder.
+# Mac/Linux
+cd website
+open index.html
+```
 
-## 🎯 Project Status
+## 🌐 Deployment
 
-✅ **Complete** - All pages converted to English
-✅ **Complete** - Image issues resolved
-✅ **Complete** - Responsive design implemented
-✅ **Complete** - SEO optimization applied
+This site is deployed on Vercel. The `vercel.json` configuration ensures proper routing from the `website` directory.
 
----
+### Deploy Your Own
 
-*TheWellVerse - Exploring every aspect of refined living*
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kydomain1/TheWellVerse)
 
+## 📄 License
+
+© 2025 TheWellVerse. All rights reserved.
+
+## 🤝 Contributing
+
+Feel free to fork this project and customize it for your own use!
